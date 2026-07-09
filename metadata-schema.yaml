@@ -1,0 +1,32 @@
+required_frontmatter_fields:
+  - id
+  - title
+  - domain
+  - category
+  - subcategory
+  - difficulty
+  - audience
+  - content_type
+  - keywords
+  - related
+  - version
+  - last_updated
+  - source_type
+  - copyright_status
+
+field_notes:
+  id: Stable unique document id, usually matching the path.
+  title: Human-readable article title.
+  domain: One of the top-level taxonomy domains.
+  category: Domain-specific category.
+  subcategory: Category-specific subcategory.
+  difficulty: One of the domain allowed difficulty values.
+  audience: One or more domain allowed audience values.
+  content_type: One of the domain allowed content types.
+  keywords: Retrieval keywords and synonyms.
+  related: Related document ids.
+  version: Semantic content version.
+  last_updated: ISO date.
+  source_type: original, internal, policy, or curated.
+  copyright_status: original_explanation, internal_policy, or needs_review.
+

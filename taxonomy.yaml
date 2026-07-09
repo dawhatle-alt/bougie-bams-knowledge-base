@@ -1,0 +1,92 @@
+domains:
+  mahjong:
+    categories:
+      fundamentals:
+        subcategories: [overview, equipment, tiles, seating]
+      rules:
+        subcategories: [setup, play, calls, jokers, scoring, endgame]
+      strategy:
+        subcategories: [beginner, passing, calling, defense, hand-selection]
+      etiquette:
+        subcategories: [casual-play, communication, hosting, disputes]
+      teaching:
+        subcategories: [beginners, lessons, explanations]
+      examples:
+        subcategories: [practice, scenarios]
+      faq:
+        subcategories: [rules, beginner, calls, jokers]
+      decision-trees:
+        subcategories: [calls, jokers, strategy, rules]
+      glossary:
+        subcategories: [terms]
+    allowed_difficulty: [beginner, intermediate, advanced, all]
+    allowed_audience: [players, beginners, instructors, hosts, customers, support, internal]
+    allowed_content_types: [article, faq, decision_tree, glossary]
+  events:
+    categories:
+      classes:
+        subcategories: [beginner, intermediate, private, group]
+      open-play:
+        subcategories: [casual, guided, community]
+      tournaments:
+        subcategories: [registration, rules, scoring, operations]
+      retreats:
+        subcategories: [planning, schedule, packing, guest-experience]
+      hosting:
+        subcategories: [venue, supplies, checklists, communication]
+    allowed_difficulty: [beginner, intermediate, advanced, all]
+    allowed_audience: [players, beginners, instructors, hosts, customers, support, internal]
+    allowed_content_types: [article, faq, decision_tree, glossary, checklist]
+  products:
+    categories:
+      tiles:
+        subcategories: [materials, care, selection, support]
+      mats:
+        subcategories: [care, sizing, selection, support]
+      racks:
+        subcategories: [care, selection, support]
+      bags:
+        subcategories: [care, sizing, selection, support]
+      affiliate:
+        subcategories: [recommendations, disclosure, support]
+    allowed_difficulty: [beginner, intermediate, advanced, all]
+    allowed_audience: [customers, support, internal, players, beginners]
+    allowed_content_types: [article, faq, decision_tree, glossary, product_note]
+  company:
+    categories:
+      mission:
+        subcategories: [brand, values, story]
+      policies:
+        subcategories: [privacy, terms, conduct]
+      shipping:
+        subcategories: [timelines, carriers, tracking]
+      returns:
+        subcategories: [eligibility, process, exceptions]
+      faq:
+        subcategories: [general, support, orders]
+    allowed_difficulty: [all]
+    allowed_audience: [customers, support, internal, hosts]
+    allowed_content_types: [article, faq, decision_tree, policy]
+  media:
+    categories:
+      blog:
+        subcategories: [education, events, product, community]
+      youtube:
+        subcategories: [lessons, shorts, product, events]
+      newsletters:
+        subcategories: [announcements, education, promotions]
+    allowed_difficulty: [beginner, intermediate, advanced, all]
+    allowed_audience: [customers, players, beginners, instructors, internal]
+    allowed_content_types: [article, faq, glossary, media_note]
+  operations:
+    categories:
+      admin:
+        subcategories: [systems, checklists, reporting]
+      instructors:
+        subcategories: [lesson-plans, standards, materials]
+      support:
+        subcategories: [tickets, refunds, product-questions, event-questions]
+    allowed_difficulty: [all]
+    allowed_audience: [internal, support, instructors, hosts]
+    allowed_content_types: [article, faq, decision_tree, checklist, procedure]
+
