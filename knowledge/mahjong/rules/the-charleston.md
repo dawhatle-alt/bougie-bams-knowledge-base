@@ -44,8 +44,8 @@ Players use the Charleston to improve hand direction by passing unwanted tiles i
 
 ## Related Documents
 
-- mahjong-rules-optional-charleston
-- mahjong-strategy-passing-strategy
+- [[optional-charleston|mahjong-rules-optional-charleston]]
+- [[passing-strategy|mahjong-strategy-passing-strategy]]
 
 ## Vector Tags
 

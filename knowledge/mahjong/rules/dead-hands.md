@@ -43,8 +43,8 @@ Dead-hand situations can be uncomfortable, so tables should handle them calmly a
 
 ## Related Documents
 
-- glossary-dead-hand
-- decision-is-this-hand-dead
+- [[dead-hand|glossary-dead-hand]]
+- [[is-this-hand-dead|decision-is-this-hand-dead]]
 
 ## Vector Tags
 

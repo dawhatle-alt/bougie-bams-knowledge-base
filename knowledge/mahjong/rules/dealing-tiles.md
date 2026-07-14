@@ -43,8 +43,8 @@ Dealing should be orderly and consistent so players begin with the correct numbe
 
 ## Related Documents
 
-- mahjong-rules-setup-overview
-- mahjong-rules-the-charleston
+- [[setup-overview|mahjong-rules-setup-overview]]
+- [[the-charleston|mahjong-rules-the-charleston]]
 
 ## Vector Tags
 

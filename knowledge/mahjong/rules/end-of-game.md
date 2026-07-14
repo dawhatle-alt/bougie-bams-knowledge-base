@@ -44,8 +44,8 @@ The end of a hand should include a clear stop, review if appropriate, and reset 
 
 ## Related Documents
 
-- mahjong-rules-declaring-mahjong
-- mahjong-etiquette-handling-disputes
+- [[declaring-mahjong|mahjong-rules-declaring-mahjong]]
+- [[handling-disputes|mahjong-etiquette-handling-disputes]]
 
 ## Vector Tags
 

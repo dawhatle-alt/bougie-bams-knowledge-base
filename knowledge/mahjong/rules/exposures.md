@@ -44,8 +44,8 @@ Exposures give progress but also reveal information. They can affect joker excha
 
 ## Related Documents
 
-- glossary-exposure
-- mahjong-rules-joker-exchange
+- [[exposure|glossary-exposure]]
+- [[joker-exchange|mahjong-rules-joker-exchange]]
 
 ## Vector Tags
 

@@ -43,8 +43,8 @@ Concealed hands require patience because calling may make the hand invalid. This
 
 ## Related Documents
 
-- glossary-concealed
-- mahjong-rules-calling-discarded-tiles
+- [[concealed|glossary-concealed]]
+- [[calling-discarded-tiles|mahjong-rules-calling-discarded-tiles]]
 
 ## Vector Tags
 

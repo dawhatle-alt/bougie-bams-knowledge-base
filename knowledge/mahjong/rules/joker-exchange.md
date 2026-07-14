@@ -43,8 +43,8 @@ Joker exchange is a major part of American Mahjong awareness. Players should rec
 
 ## Related Documents
 
-- mahjong-fundamentals-jokers-overview
-- decision-can-i-exchange-this-joker
+- [[jokers-overview|mahjong-fundamentals-jokers-overview]]
+- [[can-i-exchange-this-joker|decision-can-i-exchange-this-joker]]
 
 ## Vector Tags
 

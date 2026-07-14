@@ -43,8 +43,8 @@ Players should understand that optional means conditional, not automatic. In cas
 
 ## Related Documents
 
-- mahjong-rules-the-charleston
-- mahjong-etiquette-table-talk
+- [[the-charleston|mahjong-rules-the-charleston]]
+- [[table-talk|mahjong-etiquette-table-talk]]
 
 ## Vector Tags
 

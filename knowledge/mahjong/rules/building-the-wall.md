@@ -44,8 +44,8 @@ Players build the wall after tiles are mixed. The exact table habit may vary, bu
 
 ## Related Documents
 
-- glossary-wall
-- mahjong-rules-breaking-the-wall
+- [[wall|glossary-wall]]
+- [[breaking-the-wall|mahjong-rules-breaking-the-wall]]
 
 ## Vector Tags
 

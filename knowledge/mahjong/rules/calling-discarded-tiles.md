@@ -44,8 +44,8 @@ Calls can advance a hand, create an exposure, or complete Mahjong. The player mu
 
 ## Related Documents
 
-- mahjong-rules-exposures
-- decision-can-i-call-this-tile
+- [[exposures|mahjong-rules-exposures]]
+- [[can-i-call-this-tile|decision-can-i-call-this-tile]]
 
 ## Vector Tags
 

@@ -44,8 +44,8 @@ The draw-and-discard rhythm is the heartbeat of the game. Players should keep dr
 
 ## Related Documents
 
-- glossary-discard
-- mahjong-rules-turn-sequence
+- [[discard|glossary-discard]]
+- [[turn-sequence|mahjong-rules-turn-sequence]]
 
 ## Vector Tags
 

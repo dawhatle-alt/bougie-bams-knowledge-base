@@ -44,8 +44,8 @@ Learning the turn sequence gives beginners a mental map for the whole game. Once
 
 ## Related Documents
 
-- mahjong-rules-drawing-and-discarding
-- mahjong-rules-calling-discarded-tiles
+- [[drawing-and-discarding|mahjong-rules-drawing-and-discarding]]
+- [[calling-discarded-tiles|mahjong-rules-calling-discarded-tiles]]
 
 ## Vector Tags
 

@@ -44,8 +44,8 @@ Players should pause before declaring, confirm the hand direction, and handle th
 
 ## Related Documents
 
-- mahjong-rules-end-of-game
-- faq-can-i-call-a-tile-for-mahjong
+- [[end-of-game|mahjong-rules-end-of-game]]
+- [[can-i-call-a-tile-for-mahjong|faq-can-i-call-a-tile-for-mahjong]]
 
 ## Vector Tags
 

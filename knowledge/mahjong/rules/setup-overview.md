@@ -43,8 +43,8 @@ A calm setup makes the rest of the game easier. Players should confirm the tile 
 
 ## Related Documents
 
-- mahjong-fundamentals-equipment-overview
-- mahjong-rules-building-the-wall
+- [[equipment-overview|mahjong-fundamentals-equipment-overview]]
+- [[building-the-wall|mahjong-rules-building-the-wall]]
 
 ## Vector Tags
 

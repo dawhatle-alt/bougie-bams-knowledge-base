@@ -44,8 +44,8 @@ The wall break is a setup step that creates a starting point for dealing. Player
 
 ## Related Documents
 
-- mahjong-rules-building-the-wall
-- mahjong-rules-dealing-tiles
+- [[building-the-wall|mahjong-rules-building-the-wall]]
+- [[dealing-tiles|mahjong-rules-dealing-tiles]]
 
 ## Vector Tags
 
