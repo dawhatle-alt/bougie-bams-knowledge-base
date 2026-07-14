@@ -50,9 +50,9 @@ Decision trees are teaching aids. They do not replace the current official NMJL 
 
 ## Related Documents
 
-- mahjong-rules-calling-discarded-tiles
-- mahjong-rules-joker-exchange
-- mahjong-strategy-when-to-call
+- [[calling-discarded-tiles|mahjong-rules-calling-discarded-tiles]]
+- [[joker-exchange|mahjong-rules-joker-exchange]]
+- [[when-to-call|mahjong-strategy-when-to-call]]
 
 ## Vector Tags
 
