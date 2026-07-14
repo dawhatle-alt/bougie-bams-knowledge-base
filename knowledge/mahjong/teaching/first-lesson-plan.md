@@ -43,8 +43,8 @@ A practical first lesson can cover equipment, tile families, seating, a slow dem
 
 ## Related Documents
 
-- mahjong-teaching-teaching-beginners
-- mahjong-fundamentals-equipment-overview
+- [[teaching-beginners|mahjong-teaching-teaching-beginners]]
+- [[equipment-overview|mahjong-fundamentals-equipment-overview]]
 
 ## Vector Tags
 

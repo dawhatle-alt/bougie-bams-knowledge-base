@@ -43,8 +43,8 @@ Start with tile recognition, table setup, turn rhythm, and simple decision langu
 
 ## Related Documents
 
-- mahjong-teaching-first-lesson-plan
-- mahjong-fundamentals-game-overview
+- [[first-lesson-plan|mahjong-teaching-first-lesson-plan]]
+- [[game-overview|mahjong-fundamentals-game-overview]]
 
 ## Vector Tags
 

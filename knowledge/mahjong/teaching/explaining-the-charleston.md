@@ -43,8 +43,8 @@ Explain why passing exists before teaching the exact sequence. Use practice tile
 
 ## Related Documents
 
-- mahjong-rules-the-charleston
-- mahjong-strategy-passing-strategy
+- [[the-charleston|mahjong-rules-the-charleston]]
+- [[passing-strategy|mahjong-strategy-passing-strategy]]
 
 ## Vector Tags
 

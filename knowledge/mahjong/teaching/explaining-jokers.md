@@ -43,8 +43,8 @@ Beginners often overuse jokers because they seem magical. Teach what a joker can
 
 ## Related Documents
 
-- mahjong-fundamentals-jokers-overview
-- mahjong-rules-joker-exchange
+- [[jokers-overview|mahjong-fundamentals-jokers-overview]]
+- [[joker-exchange|mahjong-rules-joker-exchange]]
 
 ## Vector Tags
 
