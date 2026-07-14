@@ -43,7 +43,7 @@ Dead Hand is a term players may hear during lessons, casual games, or support co
 
 ## Related Documents
 
-- mahjong-fundamentals-game-overview
+- [[game-overview|mahjong-fundamentals-game-overview]]
 
 ## Vector Tags
 
