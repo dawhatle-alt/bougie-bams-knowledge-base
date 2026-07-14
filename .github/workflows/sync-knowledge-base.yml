@@ -1,0 +1,30 @@
+name: Sync knowledge base to OpenAI vector store
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "knowledge/**"
+      - "scripts/sync_openai_vector_store.py"
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install openai
+
+      - name: Validate metadata before syncing
+        run: python scripts/validate_metadata.py
+
+      - name: Sync to vector store
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/sync_openai_vector_store.py
