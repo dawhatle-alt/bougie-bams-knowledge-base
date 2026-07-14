@@ -44,8 +44,8 @@ Jokers can strengthen a hand, but they also create visible opportunities when ex
 
 ## Related Documents
 
-- mahjong-rules-joker-exchange
-- mahjong-fundamentals-jokers-overview
+- [[joker-exchange|mahjong-rules-joker-exchange]]
+- [[jokers-overview|mahjong-fundamentals-jokers-overview]]
 
 ## Vector Tags
 

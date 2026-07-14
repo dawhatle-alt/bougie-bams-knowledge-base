@@ -44,8 +44,8 @@ During passing phases, players should protect likely useful tiles, pass away low
 
 ## Related Documents
 
-- mahjong-rules-the-charleston
-- mahjong-strategy-choosing-a-hand
+- [[the-charleston|mahjong-rules-the-charleston]]
+- [[choosing-a-hand|mahjong-strategy-choosing-a-hand]]
 
 ## Vector Tags
 

@@ -43,8 +43,8 @@ Beginners should look for repeated suits, numbers, honors, flowers, and jokers w
 
 ## Related Documents
 
-- mahjong-strategy-switching-hands
-- mahjong-rules-the-charleston
+- [[switching-hands|mahjong-strategy-switching-hands]]
+- [[the-charleston|mahjong-rules-the-charleston]]
 
 ## Vector Tags
 

@@ -43,8 +43,8 @@ A strong player notices when draws, discards, or exposures make a plan less real
 
 ## Related Documents
 
-- mahjong-strategy-choosing-a-hand
-- mahjong-strategy-beginner-mistakes
+- [[choosing-a-hand|mahjong-strategy-choosing-a-hand]]
+- [[beginner-mistakes|mahjong-strategy-beginner-mistakes]]
 
 ## Vector Tags
 

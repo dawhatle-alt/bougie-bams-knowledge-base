@@ -44,8 +44,8 @@ Calling is strongest when it completes a needed group, supports a clear hand dir
 
 ## Related Documents
 
-- mahjong-rules-calling-discarded-tiles
-- decision-should-i-call-or-pass
+- [[calling-discarded-tiles|mahjong-rules-calling-discarded-tiles]]
+- [[should-i-call-or-pass|decision-should-i-call-or-pass]]
 
 ## Vector Tags
 

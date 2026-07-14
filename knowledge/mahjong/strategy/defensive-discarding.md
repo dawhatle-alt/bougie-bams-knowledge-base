@@ -44,8 +44,8 @@ Players should watch exposures, repeated discards, and table tempo. Defense does
 
 ## Related Documents
 
-- mahjong-rules-exposures
-- mahjong-strategy-when-to-call
+- [[exposures|mahjong-rules-exposures]]
+- [[when-to-call|mahjong-strategy-when-to-call]]
 
 ## Vector Tags
 

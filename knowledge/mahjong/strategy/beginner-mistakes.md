@@ -43,8 +43,8 @@ Beginners improve quickly when they slow down, name their likely direction, watc
 
 ## Related Documents
 
-- mahjong-fundamentals-game-overview
-- mahjong-teaching-teaching-beginners
+- [[game-overview|mahjong-fundamentals-game-overview]]
+- [[teaching-beginners|mahjong-teaching-teaching-beginners]]
 
 ## Vector Tags
 
