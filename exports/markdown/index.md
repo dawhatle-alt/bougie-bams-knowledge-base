@@ -1,13 +1,23 @@
 # Knowledge Base Index
 
-Generated documents: 67
+Generated documents: 83
 
 | ID | Title | Domain | Category | Path | Keywords | Related |
 | --- | --- | --- | --- | --- | --- | --- |
+| company-faq-contact-and-support | Contact and Support | company | faq | knowledge/company/faq/contact-and-support.md | contact, support, email, hours, order inquiry, customer service | company-shipping-policy, company-returns-policy |
+| company-faq-general | General Company FAQ | company | faq | knowledge/company/faq/general-faq.md | faq, who is bougiebams, newsletter, bougie circle, wholesale, instagram | company-mission-brand-story, company-faq-contact-and-support |
+| company-mission-brand-story | The Bougie Bams Story | company | mission | knowledge/company/mission/brand-story.md | bougie bams, bougiebams, brand story, patsy miller, founder, about us | company-mission-our-values, events-open-play-socials-overview |
+| company-mission-our-values | Our Values and Standards | company | mission | knowledge/company/mission/our-values.md | values, quality, premium materials, craftsmanship, aesthetic, why bougiebams | company-mission-brand-story, products-tiles-choosing-a-tile-set |
+| company-returns-policy | Return and Refund Policy | company | returns | knowledge/company/returns/return-policy.md | returns, refunds, exchanges, 14 days, return window, original packaging | company-shipping-policy, company-faq-contact-and-support |
+| company-shipping-policy | Shipping Policy | company | shipping | knowledge/company/shipping/shipping-policy.md | shipping, delivery, processing time, carriers, tracking | company-returns-policy, company-faq-contact-and-support |
 | decision-can-i-call-this-tile | Can I Call This Tile? | mahjong | decision-trees | knowledge/mahjong/decision-trees/can-i-call-this-tile.md | can i call this tile, decision tree, calls | mahjong-rules-calling-discarded-tiles, mahjong-rules-joker-exchange, mahjong-strategy-when-to-call |
 | decision-can-i-exchange-this-joker | Can I Exchange This Joker? | mahjong | decision-trees | knowledge/mahjong/decision-trees/can-i-exchange-this-joker.md | can i exchange this joker, decision tree, jokers | mahjong-rules-calling-discarded-tiles, mahjong-rules-joker-exchange, mahjong-strategy-when-to-call |
 | decision-is-this-hand-dead | Is This Hand Dead? | mahjong | decision-trees | knowledge/mahjong/decision-trees/is-this-hand-dead.md | is this hand dead, decision tree, rules | mahjong-rules-calling-discarded-tiles, mahjong-rules-joker-exchange, mahjong-strategy-when-to-call |
 | decision-should-i-call-or-pass | Should I Call Or Pass? | mahjong | decision-trees | knowledge/mahjong/decision-trees/should-i-call-or-pass.md | should i call or pass, decision tree, strategy | mahjong-rules-calling-discarded-tiles, mahjong-rules-joker-exchange, mahjong-strategy-when-to-call |
+| events-classes-learn-to-play | Learning to Play at Bougie Bams | events | classes | knowledge/events/classes/learn-to-play.md | learn mahjong, beginner, first time, lessons, never played | events-open-play-socials-overview, mahjong-teaching-first-lesson-plan, mahjong-fundamentals-game-overview |
+| events-hosting-table-styling | Table Styling at Bougie Bams Events | events | hosting | knowledge/events/hosting/table-styling.md | table styling, tablescape, styled tables, event supplies, 40 sets | events-open-play-socials-overview, products-mats-collection-overview |
+| events-hosting-venues | Event Venues | events | hosting | knowledge/events/hosting/venues.md | venues, cork2glass, rabbit hole, cedar park, venue requirements | events-open-play-socials-overview, events-hosting-table-styling |
+| events-open-play-socials-overview | Bougie Bams Mahjong Socials | events | open-play | knowledge/events/open-play/socials-overview.md | events, mahjong social, game night, tickets, raffle, upcoming events | events-hosting-table-styling, events-classes-learn-to-play, company-mission-brand-story |
 | faq-can-i-call-a-tile-for-mahjong | Can I Call A Tile For Mahjong? | mahjong | faq | knowledge/mahjong/faq/can-i-call-a-tile-for-mahjong.md | can i call a tile for mahjong, faq, rules | mahjong-rules-calling-discarded-tiles, mahjong-rules-joker-exchange, mahjong-rules-the-charleston |
 | faq-can-i-call-for-a-pair | Can I Call For A Pair? | mahjong | faq | knowledge/mahjong/faq/can-i-call-for-a-pair.md | can i call for a pair, faq, calls | mahjong-rules-calling-discarded-tiles, mahjong-rules-joker-exchange, mahjong-rules-the-charleston |
 | faq-can-i-change-my-exposure | Can I Change My Exposure? | mahjong | faq | knowledge/mahjong/faq/can-i-change-my-exposure.md | can i change my exposure, faq, calls | mahjong-rules-calling-discarded-tiles, mahjong-rules-joker-exchange, mahjong-rules-the-charleston |
@@ -71,3 +81,9 @@ Generated documents: 67
 | mahjong-teaching-explaining-the-charleston | Explaining The Charleston | mahjong | teaching | knowledge/mahjong/teaching/explaining-the-charleston.md | charleston, teaching | mahjong-rules-the-charleston, mahjong-strategy-passing-strategy |
 | mahjong-teaching-first-lesson-plan | First Lesson Plan | mahjong | teaching | knowledge/mahjong/teaching/first-lesson-plan.md | lesson plan, beginners | mahjong-teaching-teaching-beginners, mahjong-fundamentals-equipment-overview |
 | mahjong-teaching-teaching-beginners | Teaching Beginners | mahjong | teaching | knowledge/mahjong/teaching/teaching-beginners.md | teaching, beginners | mahjong-teaching-first-lesson-plan, mahjong-fundamentals-game-overview |
+| products-mats-care | Mat Care Guide | products | mats | knowledge/products/mats/mat-care.md | mat care, cleaning, spills, storage, maintenance | products-mats-collection-overview, products-tiles-tile-care |
+| products-mats-collection-overview | Mahjong Mat Collection Overview | products | mats | knowledge/products/mats/mat-collection-overview.md | mats, mahjong mat, collection, zsa zsa, monroe the monkey, pink snake bandana, prices | products-mats-sizing-guide, products-mats-care |
+| products-mats-sizing-guide | Mat Sizing Guide | products | mats | knowledge/products/mats/mat-sizing-guide.md | mat size, 33 inch, 31 inch, travel mat, which size, table size | products-mats-collection-overview, products-mats-care |
+| products-racks-selection | Choosing Racks and Pushers | products | racks | knowledge/products/racks/rack-selection.md | racks, pushers, rack selection, combo racks | products-tiles-choosing-a-tile-set, products-mats-collection-overview |
+| products-tiles-choosing-a-tile-set | Choosing a Tile Set | products | tiles | knowledge/products/tiles/choosing-a-tile-set.md | tile set, choosing tiles, acrylic tiles, tile weight, american mahjong set | products-tiles-tile-care, mahjong-fundamentals-equipment-overview |
+| products-tiles-tile-care | Tile Care Guide | products | tiles | knowledge/products/tiles/tile-care.md | tile care, cleaning tiles, acrylic care, storage | products-tiles-choosing-a-tile-set, products-mats-care |
