@@ -43,8 +43,8 @@ Players should announce discards clearly, avoid distracting advice during active
 
 ## Related Documents
 
-- mahjong-etiquette-table-talk
-- mahjong-fundamentals-seating-and-table-position
+- [[table-talk|mahjong-etiquette-table-talk]]
+- [[seating-and-table-position|mahjong-fundamentals-seating-and-table-position]]
 
 ## Vector Tags
 

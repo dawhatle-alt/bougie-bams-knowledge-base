@@ -43,8 +43,8 @@ When players disagree, stop movement of tiles, restate the question, and consult
 
 ## Related Documents
 
-- mahjong-rules-dead-hands
-- mahjong-etiquette-table-talk
+- [[dead-hands|mahjong-rules-dead-hands]]
+- [[table-talk|mahjong-etiquette-table-talk]]
 
 ## Vector Tags
 

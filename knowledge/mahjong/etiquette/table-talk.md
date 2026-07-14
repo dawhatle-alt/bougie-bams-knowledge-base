@@ -43,8 +43,8 @@ Friendly conversation is part of casual Mahjong, but game-related comments can i
 
 ## Related Documents
 
-- mahjong-etiquette-casual-play-etiquette
-- mahjong-etiquette-handling-disputes
+- [[casual-play-etiquette|mahjong-etiquette-casual-play-etiquette]]
+- [[handling-disputes|mahjong-etiquette-handling-disputes]]
 
 ## Vector Tags
 

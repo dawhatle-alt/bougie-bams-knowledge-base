@@ -44,8 +44,8 @@ Hosts should prepare equipment, explain table expectations, support new players,
 
 ## Related Documents
 
-- mahjong-etiquette-casual-play-etiquette
-- mahjong-teaching-first-lesson-plan
+- [[casual-play-etiquette|mahjong-etiquette-casual-play-etiquette]]
+- [[first-lesson-plan|mahjong-teaching-first-lesson-plan]]
 
 ## Vector Tags
 
