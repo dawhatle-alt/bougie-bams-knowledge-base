@@ -44,8 +44,8 @@ Clear seating habits reduce confusion. Players should know who acts before and a
 
 ## Related Documents
 
-- mahjong-rules-setup-overview
-- mahjong-etiquette-casual-play-etiquette
+- [[setup-overview|mahjong-rules-setup-overview]]
+- [[casual-play-etiquette|mahjong-etiquette-casual-play-etiquette]]
 
 ## Vector Tags
 

@@ -44,8 +44,8 @@ These tiles often appear in patterns, calls, and table language. Beginners shoul
 
 ## Related Documents
 
-- glossary-wind
-- glossary-dragon
+- [[wind|glossary-wind]]
+- [[dragon|glossary-dragon]]
 
 ## Vector Tags
 

@@ -46,9 +46,9 @@ Suits help players organize possible patterns. Each suit contains numbered tiles
 
 ## Related Documents
 
-- glossary-bam
-- glossary-dot
-- glossary-crak
+- [[bam|glossary-bam]]
+- [[dot|glossary-dot]]
+- [[crak|glossary-crak]]
 
 ## Vector Tags
 

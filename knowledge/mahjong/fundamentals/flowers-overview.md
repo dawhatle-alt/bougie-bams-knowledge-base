@@ -43,8 +43,8 @@ Players should learn to identify flowers early because they can appear in many t
 
 ## Related Documents
 
-- glossary-flower
-- mahjong-fundamentals-jokers-overview
+- [[flower|glossary-flower]]
+- [[jokers-overview|mahjong-fundamentals-jokers-overview]]
 
 ## Vector Tags
 

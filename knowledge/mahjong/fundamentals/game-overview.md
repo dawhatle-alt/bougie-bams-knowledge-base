@@ -44,8 +44,8 @@ A beginner should first understand the flow: players receive tiles, improve thei
 
 ## Related Documents
 
-- mahjong-fundamentals-equipment-overview
-- mahjong-rules-turn-sequence
+- [[equipment-overview|mahjong-fundamentals-equipment-overview]]
+- [[turn-sequence|mahjong-rules-turn-sequence]]
 
 ## Vector Tags
 

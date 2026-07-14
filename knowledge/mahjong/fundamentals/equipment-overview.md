@@ -44,8 +44,8 @@ Good equipment makes play smoother because everyone can see discards, organize t
 
 ## Related Documents
 
-- mahjong-fundamentals-tile-suits
-- mahjong-rules-setup-overview
+- [[tile-suits|mahjong-fundamentals-tile-suits]]
+- [[setup-overview|mahjong-rules-setup-overview]]
 
 ## Vector Tags
 

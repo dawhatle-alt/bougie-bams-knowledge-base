@@ -43,8 +43,8 @@ In American Mahjong, jokers can be powerful, but they are not universal substitu
 
 ## Related Documents
 
-- mahjong-rules-joker-exchange
-- faq-can-i-pass-a-joker
+- [[joker-exchange|mahjong-rules-joker-exchange]]
+- [[can-i-pass-a-joker|faq-can-i-pass-a-joker]]
 
 ## Vector Tags
 
