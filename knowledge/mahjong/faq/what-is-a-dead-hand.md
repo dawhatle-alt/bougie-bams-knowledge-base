@@ -45,9 +45,9 @@ Dead-hand questions should be handled calmly and checked against official rules 
 
 ## Related Documents
 
-- mahjong-rules-calling-discarded-tiles
-- mahjong-rules-joker-exchange
-- mahjong-rules-the-charleston
+- [[calling-discarded-tiles|mahjong-rules-calling-discarded-tiles]]
+- [[joker-exchange|mahjong-rules-joker-exchange]]
+- [[the-charleston|mahjong-rules-the-charleston]]
 
 ## Vector Tags
 

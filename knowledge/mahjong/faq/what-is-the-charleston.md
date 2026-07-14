@@ -45,9 +45,9 @@ It helps players improve direction before regular draw-and-discard play begins.
 
 ## Related Documents
 
-- mahjong-rules-calling-discarded-tiles
-- mahjong-rules-joker-exchange
-- mahjong-rules-the-charleston
+- [[calling-discarded-tiles|mahjong-rules-calling-discarded-tiles]]
+- [[joker-exchange|mahjong-rules-joker-exchange]]
+- [[the-charleston|mahjong-rules-the-charleston]]
 
 ## Vector Tags
 

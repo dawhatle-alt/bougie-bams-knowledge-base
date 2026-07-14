@@ -45,9 +45,9 @@ Table timing matters. Stop immediately if a mistake is noticed and consult the a
 
 ## Related Documents
 
-- mahjong-rules-calling-discarded-tiles
-- mahjong-rules-joker-exchange
-- mahjong-rules-the-charleston
+- [[calling-discarded-tiles|mahjong-rules-calling-discarded-tiles]]
+- [[joker-exchange|mahjong-rules-joker-exchange]]
+- [[the-charleston|mahjong-rules-the-charleston]]
 
 ## Vector Tags
 

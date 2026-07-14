@@ -45,9 +45,9 @@ The hand must actually be complete and valid under the current card and rules.
 
 ## Related Documents
 
-- mahjong-rules-calling-discarded-tiles
-- mahjong-rules-joker-exchange
-- mahjong-rules-the-charleston
+- [[calling-discarded-tiles|mahjong-rules-calling-discarded-tiles]]
+- [[joker-exchange|mahjong-rules-joker-exchange]]
+- [[the-charleston|mahjong-rules-the-charleston]]
 
 ## Vector Tags
 

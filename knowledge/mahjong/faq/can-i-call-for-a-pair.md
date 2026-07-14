@@ -45,9 +45,9 @@ Do not assume every useful discard can be called. The grouping you are completin
 
 ## Related Documents
 
-- mahjong-rules-calling-discarded-tiles
-- mahjong-rules-joker-exchange
-- mahjong-rules-the-charleston
+- [[calling-discarded-tiles|mahjong-rules-calling-discarded-tiles]]
+- [[joker-exchange|mahjong-rules-joker-exchange]]
+- [[the-charleston|mahjong-rules-the-charleston]]
 
 ## Vector Tags
 
